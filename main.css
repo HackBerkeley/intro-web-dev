@@ -1,0 +1,41 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: #bde;
+}
+
+#container {
+	width: 700px;
+	margin: 0 auto;
+	background-color: #39c;
+	overflow: hidden;
+	box-shadow: 0 0 30px #fff;
+	color: white;
+	margin-top: 100px;
+	border-radius: 5px;
+}
+a {
+	color: #fff;
+}
+a:hover {
+	color: #ddd;
+}
+a:active {
+	color: #aaa;
+}
+
+#left-panel {
+	width: 160px;
+	float: left;
+	padding: 20px;
+}
+
+img {
+	width: 100%;
+	border: 3px solid white;
+}
+
+#right-panel {
+	width: 460px;
+	padding: 20px;
+	float: left;
+}
